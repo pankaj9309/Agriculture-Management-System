@@ -1,1 +1,2 @@
 # Agriculture-Management-System
+This is basically project of Agriculture Marketing for encouraging farmers by improving their income and maintaining stability of farm produce in market .In the absence of sound marketing facilities, the farmers have to depend upon local traders and middlemen for the disposal of their farm produce which is sold at throw away price. So, TopAgro provides service for farmers to sell their produce to whomever they like at their expected price.
